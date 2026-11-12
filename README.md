@@ -2,8 +2,8 @@
 
 A simple Java web application for managing student profiles. Users can add a new student profile, view all profiles in a table, and edit an existing profile. Built for **CSC584 Individual Assignment 1** (Personal Profile Web Application).
 
-**Author:** YOUR NAME HERE
-**Student ID:** YOUR STUDENT ID HERE
+**Author:** NUR AIN NAJIHAH BINTI MOHD HOOD
+**Student ID:** 2026116921
 
 ---
 
@@ -68,7 +68,7 @@ Install these before running the project:
 
 1. Download or clone this repository:
    ```
-   git clone https://github.com/YOUR-USERNAME/CSC584-Individual-Assignment-1.git
+   git clone https://github.com/tantantara/CSC584-Individual-Assignment-1.git
    ```
 2. Open **NetBeans 8.2**.
 3. Go to **File > Open Project**, select the `ProfileLibrary` folder, and click **Open Project**.
@@ -87,23 +87,6 @@ Install these before running the project:
 2. Click **Add Profile**. The new profile appears in the list.
 3. On the list page, click **Edit** next to a profile to change its details, then click **Save Changes**.
 4. Use **Back to list** to return to the table.
-
-## Screenshots
-
-### Home Page
-![Home Page](screenshots/home.png)
-
-### Add Profile Form
-![Add Profile Form](screenshots/add.png)
-
-### Profile List
-![Profile List](screenshots/list.png)
-
-### Edit Profile Form
-![Edit Profile Form](screenshots/edit.png)
-
-### Duplicate ID Alert
-![Duplicate ID Alert](screenshots/duplicate.png)
 
 ## Notes
 
